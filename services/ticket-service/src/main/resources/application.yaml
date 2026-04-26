@@ -4,7 +4,7 @@ server:
 
 spring:
   application:
-    name: index12306-ticket${unique-name:}-service
+    name: index12306-ticket-service
   datasource:
     driver-class-name: com.mysql.cj.jdbc.Driver
     username: root
