@@ -11,6 +11,7 @@
     <packaging>pom</packaging>
     <modules>
         <module>user-services</module>
+        <module>aggregation-service</module>
     </modules>
 
     <dependencies>
